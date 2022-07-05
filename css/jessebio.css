@@ -160,6 +160,12 @@ article#main-col{
   width: 65%;
 }
 
+.socials{
+  text-shadow: -1px 1px 0 #000000,
+               1px 1px 0 #000000,
+               -1px -1px 0 #000000,
+               1px -1px 0 #000000;
+}
 /*
  *Responsive
  */
